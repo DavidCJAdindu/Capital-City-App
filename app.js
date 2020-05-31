@@ -44,7 +44,7 @@ var input = document.createElement('input');
 input.setAttribute('type', 'text');
 input.setAttribute('id', 'search');
 input.setAttribute('class', 'form-control form-control-lg');
-input.setAttribute('placeholder', 'Enter country name...');
+input.setAttribute('placeholder', 'Enter country name to get the capital city...');
 document.body.appendChild(input);
 form.appendChild(input);
 
